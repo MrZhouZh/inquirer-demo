@@ -1,0 +1,19 @@
+{
+  "name": "inquirer-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "dependencies": {
+    "chalk-pipe": "^4.0.0",
+    "inquirer-emoji": "^1.0.2",
+    "rxjs": "^6.6.3"
+  }
+}
